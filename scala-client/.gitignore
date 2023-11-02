@@ -1,6 +1,15 @@
 # Created by https://www.toptal.com/developers/gitignore/api/sbt,scala
 # Edit at https://www.toptal.com/developers/gitignore?templates=sbt,scala
 
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
 ### SBT ###
 # Simple Build Tool
 # http://www.scala-sbt.org/release/docs/Getting-Started/Directories.html#configuring-version-control

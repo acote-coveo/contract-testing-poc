@@ -1,5 +1,4 @@
-package org.example.clients
+package org.example
+package clients
 
-class QuerySuggestRequest {
-
-}
+case class QuerySuggestRequest(query: String, count: Int)

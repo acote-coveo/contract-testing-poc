@@ -1,5 +1,4 @@
-package org.example.clients
+package org.example
+package clients
 
-class QuerySuggestion {
-
-}
+case class QuerySuggestion(expression: String, score: Double)

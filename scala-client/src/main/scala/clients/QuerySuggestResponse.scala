@@ -1,5 +1,4 @@
-package org.example.clients
+package org.example
+package clients
 
-class QuerySuggestResponse {
-
-}
+case class QuerySuggestResponse(suggestions: Seq[QuerySuggestion])
