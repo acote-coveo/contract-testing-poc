@@ -1,0 +1,10 @@
+[
+  {
+    "expression": "foo",
+    "score": 100.0
+  },
+  {
+    "expression": "bar",
+    "score": 50.0
+  }
+]

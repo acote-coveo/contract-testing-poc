@@ -1,4 +1,4 @@
-package org.example.entities;
+package org.example.models;
 
 public record QuerySuggestion(String expression, Double score) {
 }
